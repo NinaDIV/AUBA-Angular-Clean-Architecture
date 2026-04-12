@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/*.server.ts": true,
+    "**/server.ts": true
+  }
+}
